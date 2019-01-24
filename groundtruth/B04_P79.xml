@@ -10,13 +10,13 @@
             <word unicode="79" WordNumber="6" doubtfulRecognition="false" rowStart="124" rowEnd="174" colStart="1160" colEnd="1196"/>
         </line>
         <line LineNumber="2" rowStart="246" rowEnd="311" colStart="83" colEnd="1218">
-            <word unicode="ಪೂರ" WordNumber="1" colStart="247" colEnd="0"/>
-            <word unicode="ಪರ್ದ್," WordNumber="2" colStart="0" colEnd="0"/>
-            <word unicode="ದಾಹ" WordNumber="3" colStart="0" colEnd="0"/>
-            <word unicode="ಲಕ್ಕ್ಂಡ" WordNumber="4" colStart="0" colEnd="0"/>
-            <word unicode="ಮಾತ್ರ" WordNumber="5" colStart="0" colEnd="0"/>
-            <word unicode="ಶುದ್ಧ" WordNumber="6" colStart="0" colEnd="0"/>
-            <word unicode="ನೀರ್‌ನ್ಲಾ" WordNumber="7" colStart="0" colEnd="1200"/>
+            <word unicode="ದೂರ" WordNumber="1" doubtfulRecognition="true" rowStart="246" rowEnd="311" colStart="247" colEnd="349"/>
+            <word unicode="ಪರ್ದ್," WordNumber="2" doubtfulRecognition="false" rowStart="246" rowEnd="311" colStart="382" colEnd="480"/>
+            <word unicode="ದಾಹ" WordNumber="3" doubtfulRecognition="false" rowStart="246" rowEnd="311" colStart="511" colEnd="606"/>
+            <word unicode="ಲಕ್ಕ್ಂಡ" WordNumber="4" doubtfulRecognition="false" rowStart="246" rowEnd="311" colStart="638" colEnd="780"/>
+            <word unicode="ಮಾತ್ರ" WordNumber="5" doubtfulRecognition="false" rowStart="246" rowEnd="311" colStart="812" colEnd="918"/>
+            <word unicode="ಶುದ್ಧ" WordNumber="6" doubtfulRecognition="false" rowStart="246" rowEnd="311" colStart="944" colEnd="1031"/>
+            <word unicode="ನೀರ್‌ನ್ಲಾ" WordNumber="7" doubtfulRecognition="false" rowStart="246" rowEnd="311" colStart="1056" colEnd="1200"/>
         </line>
         <line LineNumber="3" rowStart="317" rowEnd="381" colStart="83" colEnd="1218">
             <word unicode="ಮದ್ಯೊಡೊಂತೆ" WordNumber="1" doubtfulRecognition="false" rowStart="317" rowEnd="381" colStart="246" colEnd="519"/>
@@ -119,7 +119,7 @@
         </line>
         <line LineNumber="16" rowStart="1264" rowEnd="1326" colStart="83" colEnd="1218">
             <word unicode="ಬರೊಲಿ." WordNumber="1" colStart="243" colEnd="0"/>
-            <word unicode="ಮಸಾಲೆ," WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಸಾಲೆ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ತಂಪು" WordNumber="3" colStart="0" colEnd="0"/>
             <word unicode="ಪೇಯೊಲು," WordNumber="4" colStart="0" colEnd="0"/>
             <word unicode="ಎಣ್ಣೆಡ್" WordNumber="5" colStart="0" colEnd="0"/>
