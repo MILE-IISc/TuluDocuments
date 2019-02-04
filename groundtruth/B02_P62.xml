@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
-    <block type="Text" BlockNumber="1" rowStart="0" rowEnd="2453" colStart="0" colEnd="1501">
-        <line LineNumber="1" rowStart="244" rowEnd="319" colStart="0" colEnd="1501">
+    <block type="Text" BlockNumber="1" rowStart="0" rowEnd="2452" colStart="0" colEnd="1500">
+        <line LineNumber="1" rowStart="244" rowEnd="319" colStart="0" colEnd="1500">
             <word unicode="ಪಂಡಿ" WordNumber="1" colStart="393" colEnd="0"/>
             <word unicode="ಪಾತೆರ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಕೇನರೆ" WordNumber="3" colStart="0" colEnd="0"/>
             <word unicode="ಬಲ್ಲಿ..." WordNumber="4" colStart="0" colEnd="1050"/>
         </line>
-        <line LineNumber="2" rowStart="379" rowEnd="443" colStart="0" colEnd="1501">
+        <line LineNumber="2" rowStart="379" rowEnd="443" colStart="0" colEnd="1500">
             <word unicode="ಗಟ್ಟದ" WordNumber="1" colStart="332" colEnd="0"/>
             <word unicode="ಗೌಡೆರ್‌ಡ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಒಂಜಿ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -17,7 +17,7 @@
             <word unicode="ಕತ್ತೆಗ್" WordNumber="7" colStart="0" colEnd="0"/>
             <word unicode="ಪ್ರಾಯ" WordNumber="8" colStart="0" colEnd="1199"/>
         </line>
-        <line LineNumber="3" rowStart="448" rowEnd="501" colStart="0" colEnd="1501">
+        <line LineNumber="3" rowStart="448" rowEnd="501" colStart="0" colEnd="1500">
             <word unicode="ಆದ್," WordNumber="1" colStart="247" colEnd="0"/>
             <word unicode="ಬೆನರೆ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಆಪುಜಿಂದ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -26,7 +26,7 @@
             <word unicode="ಕೊನೋದು" WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಮಾರ್ದ್" WordNumber="7" colStart="0" colEnd="1209"/>
         </line>
-        <line LineNumber="4" rowStart="513" rowEnd="571" colStart="0" colEnd="1501">
+        <line LineNumber="4" rowStart="513" rowEnd="571" colStart="0" colEnd="1500">
             <word unicode="ತಿಕ್ಕಿನ" WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಕಾಸ್‌ಡ್," WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಮಗಕ್ಕ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -35,7 +35,7 @@
             <word unicode="ಸೀರೆ," WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಇಲ್ಲಗ್" WordNumber="7" colStart="0" colEnd="1198"/>
         </line>
-        <line LineNumber="5" rowStart="574" rowEnd="630" colStart="0" colEnd="1501">
+        <line LineNumber="5" rowStart="574" rowEnd="630" colStart="0" colEnd="1500">
             <word unicode="ಬೋಡಿತ್ತಿನ" WordNumber="1" colStart="246" colEnd="0"/>
             <word unicode="ಸಾಮಾನ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಕನವರೆಂದ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -43,7 +43,7 @@
             <word unicode="ಮಲ್ತ್‌ದ್" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಕತ್ತೆನ್" WordNumber="6" colStart="0" colEnd="1198"/>
         </line>
-        <line LineNumber="6" rowStart="639" rowEnd="695" colStart="0" colEnd="1501">
+        <line LineNumber="6" rowStart="639" rowEnd="695" colStart="0" colEnd="1500">
             <word unicode="ಮಾರ್ಯರೆ" WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಅಮ್ಮೆಲಾ," WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಮಗೆಲಾ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -51,7 +51,7 @@
             <word unicode="ದೇರೊಂದು" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಪೋಪೆರ್." WordNumber="6" colStart="0" colEnd="1195"/>
         </line>
-        <line LineNumber="7" rowStart="702" rowEnd="753" colStart="0" colEnd="1501">
+        <line LineNumber="7" rowStart="702" rowEnd="753" colStart="0" colEnd="1500">
             <word unicode="ಮಾರ್ಗೊಡೆ" WordNumber="1" colStart="328" colEnd="0"/>
             <word unicode="ದೇರೊಂದು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಪೋನಗ," WordNumber="3" colStart="0" colEnd="0"/>
@@ -59,7 +59,7 @@
             <word unicode="ಕತ್ತೆದ" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಮೇಲ್‌ಡ್" WordNumber="6" colStart="0" colEnd="1198"/>
         </line>
-        <line LineNumber="8" rowStart="765" rowEnd="821" colStart="0" colEnd="1501">
+        <line LineNumber="8" rowStart="765" rowEnd="821" colStart="0" colEnd="1500">
             <word unicode="ಕುಲ್ಲಾವೊಂದು" WordNumber="1" colStart="244" colEnd="0"/>
             <word unicode="ಪೋನಗ," WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಸಂತೆರ್ದ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -67,7 +67,7 @@
             <word unicode="ಬರ್ಪುನಕ್ಲು" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ತಿಕ್ಕುಬೆರ್." WordNumber="6" colStart="0" colEnd="1195"/>
         </line>
-        <line LineNumber="9" rowStart="829" rowEnd="886" colStart="0" colEnd="1501">
+        <line LineNumber="9" rowStart="829" rowEnd="886" colStart="0" colEnd="1500">
             <word unicode="ಮಗೆ" WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಕತ್ತೆಡ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಕುಲ್ಲುದಿನ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -77,7 +77,7 @@
             <word unicode="ದೇವೆರೆ," WordNumber="7" colStart="0" colEnd="0"/>
             <word unicode="ಮಗನ್" WordNumber="8" colStart="0" colEnd="1198"/>
         </line>
-        <line LineNumber="10" rowStart="893" rowEnd="950" colStart="0" colEnd="1501">
+        <line LineNumber="10" rowStart="893" rowEnd="950" colStart="0" colEnd="1500">
             <word unicode="ಕತ್ತೆಡ್" WordNumber="1" doubtfulRecognition="false" rowStart="893" rowEnd="950" colStart="244" colEnd="333"/>
             <word unicode="ಕುಲ್ಲಾದ್," WordNumber="2" doubtfulRecognition="false" rowStart="893" rowEnd="950" colStart="359" colEnd="500"/>
             <word unicode="ಪರಬೆ" WordNumber="3" doubtfulRecognition="false" rowStart="893" rowEnd="950" colStart="530" colEnd="616"/>
@@ -85,7 +85,7 @@
             <word unicode="ಪೋಪುನಾಂದ್" WordNumber="5" doubtfulRecognition="false" rowStart="893" rowEnd="950" colStart="845" colEnd="1064"/>
             <word unicode="ಮಕ್ಕರ್" WordNumber="6" doubtfulRecognition="false" rowStart="893" rowEnd="950" colStart="1090" colEnd="1199"/>
         </line>
-        <line LineNumber="11" rowStart="957" rowEnd="1014" colStart="0" colEnd="1501">
+        <line LineNumber="11" rowStart="957" rowEnd="1014" colStart="0" colEnd="1500">
             <word unicode="ಮಲ್ಪುವೆರ್." WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಮಗನ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ತಿರ್ತ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -93,7 +93,7 @@
             <word unicode="ಅಮ್ಮೆಕತ್ತೆದ" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಮೇಲ್‌ಡ್" WordNumber="6" colStart="0" colEnd="1199"/>
         </line>
-        <line LineNumber="12" rowStart="1020" rowEnd="1076" colStart="0" colEnd="1501">
+        <line LineNumber="12" rowStart="1020" rowEnd="1076" colStart="0" colEnd="1500">
             <word unicode="ಕುಲ್ಲುದು," WordNumber="1" doubtfulRecognition="false" rowStart="1020" rowEnd="1076" colStart="245" colEnd="384"/>
             <word unicode="ಮಗೆ" WordNumber="2" doubtfulRecognition="false" rowStart="1020" rowEnd="1076" colStart="415" colEnd="485"/>
             <word unicode="ನಡತೊಂದು" WordNumber="3" doubtfulRecognition="false" rowStart="1020" rowEnd="1076" colStart="510" colEnd="688"/>
@@ -102,7 +102,7 @@
             <word unicode="ಒಂತೆ" WordNumber="6" doubtfulRecognition="false" rowStart="1020" rowEnd="1076" colStart="1019" colEnd="1092"/>
             <word unicode="ದೂರ" WordNumber="7" doubtfulRecognition="false" rowStart="1020" rowEnd="1076" colStart="1118" colEnd="1201"/>
         </line>
-        <line LineNumber="13" rowStart="1083" rowEnd="1137" colStart="0" colEnd="1501">
+        <line LineNumber="13" rowStart="1083" rowEnd="1137" colStart="0" colEnd="1500">
             <word unicode="ಪೋನಗೆ," WordNumber="1" colStart="246" colEnd="0"/>
             <word unicode="ಕುಡಾ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ನಾಲ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -111,7 +111,7 @@
             <word unicode="ಪೋದು" WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಬರ್ಪುನಕ್ಲುತಿಕ್ಕುಬೆರ್." WordNumber="7" colStart="0" colEnd="1196"/>
         </line>
-        <line LineNumber="14" rowStart="1146" rowEnd="1202" colStart="0" colEnd="1501">
+        <line LineNumber="14" rowStart="1146" rowEnd="1202" colStart="0" colEnd="1500">
             <word unicode="ಅಕ್ಲುಪನ್ಪೆರ್." WordNumber="1" colStart="246" colEnd="0"/>
             <word unicode="ಅಮ್ಮೆ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಕತ್ತೆಡ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -121,7 +121,7 @@
             <word unicode="ಆ" WordNumber="7" colStart="0" colEnd="0"/>
             <word unicode="ಬಾಲೆ" WordNumber="8" colStart="0" colEnd="1201"/>
         </line>
-        <line LineNumber="15" rowStart="1209" rowEnd="1262" colStart="0" colEnd="1501">
+        <line LineNumber="15" rowStart="1209" rowEnd="1262" colStart="0" colEnd="1500">
             <word unicode="ನಡತೊಂದು" WordNumber="1" doubtfulRecognition="false" rowStart="1209" rowEnd="1262" colStart="245" colEnd="422"/>
             <word unicode="ಪೋನಗ," WordNumber="2" doubtfulRecognition="false" rowStart="1209" rowEnd="1262" colStart="439" colEnd="566"/>
             <word unicode="ಎಂಕ್ಲೆಗ್" WordNumber="3" doubtfulRecognition="false" rowStart="1209" rowEnd="1262" colStart="586" colEnd="696"/>
@@ -129,7 +129,7 @@
             <word unicode="ಆಪುಂಡುಂದು" WordNumber="5" doubtfulRecognition="false" rowStart="1209" rowEnd="1262" colStart="867" colEnd="1071"/>
             <word unicode="ತಮಾಷೆ" WordNumber="6" doubtfulRecognition="false" rowStart="1209" rowEnd="1262" colStart="1087" colEnd="1202"/>
         </line>
-        <line LineNumber="16" rowStart="1272" rowEnd="1329" colStart="0" colEnd="1501">
+        <line LineNumber="16" rowStart="1272" rowEnd="1329" colStart="0" colEnd="1500">
             <word unicode="ಮಲ್ಪುವೆರ್." WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಉಂದೆನ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಕೇಂಡಿನ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -137,7 +137,7 @@
             <word unicode="ಕತ್ತೆದ" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಮೇಲ್‌ಡ್" WordNumber="6" colStart="0" colEnd="1199"/>
         </line>
-        <line LineNumber="17" rowStart="1334" rowEnd="1390" colStart="0" colEnd="1501">
+        <line LineNumber="17" rowStart="1334" rowEnd="1390" colStart="0" colEnd="1500">
             <word unicode="ಕುಲ್ಲಾದ್" WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಪೋಪೆರ್." WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಒಂತೆ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -147,7 +147,7 @@
             <word unicode="ಒಂತೆ" WordNumber="7" colStart="0" colEnd="0"/>
             <word unicode="ಜನ" WordNumber="8" colStart="0" colEnd="1201"/>
         </line>
-        <line LineNumber="18" rowStart="1398" rowEnd="1459" colStart="0" colEnd="1501">
+        <line LineNumber="18" rowStart="1398" rowEnd="1459" colStart="0" colEnd="1500">
             <word unicode="ತಿಕ್ಕುಬೆರ್." WordNumber="1" colStart="245" colEnd="0"/>
             <word unicode="ಅಕ್ಲುಪನ್ಪೆರ್," WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ನಿಕ್ಲುರಡ್ಡ್‌ಜನ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -155,7 +155,7 @@
             <word unicode="ಮೇಲ್‌ಡ್" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಕುಲ್ಲುದು" WordNumber="6" colStart="0" colEnd="1201"/>
         </line>
-        <line LineNumber="19" rowStart="1461" rowEnd="1517" colStart="0" colEnd="1501">
+        <line LineNumber="19" rowStart="1461" rowEnd="1517" colStart="0" colEnd="1500">
             <word unicode="ಪೋಪೆರ್," WordNumber="1" colStart="246" colEnd="0"/>
             <word unicode="ಪಾಪ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಆ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -166,7 +166,7 @@
             <word unicode="ಅವು" WordNumber="8" colStart="0" colEnd="0"/>
             <word unicode="ಕಷ್ಟೊಡು" WordNumber="9" colStart="0" colEnd="1201"/>
         </line>
-        <line LineNumber="20" rowStart="1525" rowEnd="1578" colStart="0" colEnd="1501">
+        <line LineNumber="20" rowStart="1525" rowEnd="1578" colStart="0" colEnd="1500">
             <word unicode="ತುಂಬೊಂದು" WordNumber="1" doubtfulRecognition="false" rowStart="1525" rowEnd="1578" colStart="246" colEnd="436"/>
             <word unicode="ಪೋಪುಂಡು." WordNumber="2" doubtfulRecognition="true" rowStart="1525" rowEnd="1578" colStart="455" colEnd="638"/>
             <word unicode="ನಿಕ್ಲೆಗ್" WordNumber="3" doubtfulRecognition="false" rowStart="1525" rowEnd="1578" colStart="661" colEnd="746"/>
@@ -175,7 +175,7 @@
             <word unicode="ಒಂತೆಲಾ" WordNumber="6" doubtfulRecognition="false" rowStart="1525" rowEnd="1578" colStart="972" colEnd="1092"/>
             <word unicode="ಕನಿಕರ" WordNumber="7" doubtfulRecognition="false" rowStart="1525" rowEnd="1578" colStart="1112" colEnd="1202"/>
         </line>
-        <line LineNumber="21" rowStart="1589" rowEnd="1648" colStart="0" colEnd="1501">
+        <line LineNumber="21" rowStart="1589" rowEnd="1648" colStart="0" colEnd="1500">
             <word unicode="ಇಜ್ಜಾ." WordNumber="1" colStart="246" colEnd="0"/>
             <word unicode="ಅವು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಸಂತೆಗ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -186,7 +186,7 @@
             <word unicode="ಆವು." WordNumber="8" colStart="0" colEnd="0"/>
             <word unicode="ಅವೆನ್" WordNumber="9" colStart="0" colEnd="1200"/>
         </line>
-        <line LineNumber="22" rowStart="1653" rowEnd="1708" colStart="0" colEnd="1501">
+        <line LineNumber="22" rowStart="1653" rowEnd="1708" colStart="0" colEnd="1500">
             <word unicode="ನಿಕ್ಲು" WordNumber="1" colStart="248" colEnd="0"/>
             <word unicode="ತುಂಬೊಂದು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಪೋಲೆ" WordNumber="3" colStart="0" colEnd="0"/>
@@ -195,7 +195,7 @@
             <word unicode="ಸತ್ಯಂದ್" WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ತೋಜಿದ್," WordNumber="7" colStart="0" colEnd="1197"/>
         </line>
-        <line LineNumber="23" rowStart="1718" rowEnd="1774" colStart="0" colEnd="1501">
+        <line LineNumber="23" rowStart="1718" rowEnd="1774" colStart="0" colEnd="1500">
             <word unicode="ಕತ್ತೆದ" WordNumber="1" colStart="248" colEnd="0"/>
             <word unicode="ನಾಲ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಕಾರ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -206,7 +206,7 @@
             <word unicode="ಪಾಡ್ದ್" WordNumber="8" colStart="0" colEnd="0"/>
             <word unicode="ಅಮ್ಮೆಲಾ" WordNumber="9" colStart="0" colEnd="1200"/>
         </line>
-        <line LineNumber="24" rowStart="1781" rowEnd="1836" colStart="0" colEnd="1501">
+        <line LineNumber="24" rowStart="1781" rowEnd="1836" colStart="0" colEnd="1500">
             <word unicode="ಮಗೆಲಾ" WordNumber="1" colStart="248" colEnd="0"/>
             <word unicode="ತುಂಬೊಂದು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಪೋಪೆರ್." WordNumber="3" colStart="0" colEnd="0"/>
@@ -215,7 +215,7 @@
             <word unicode="ಬನ್ನಗ," WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಒಂಜಿ" WordNumber="7" colStart="0" colEnd="1201"/>
         </line>
-        <line LineNumber="25" rowStart="1844" rowEnd="1904" colStart="0" colEnd="1501">
+        <line LineNumber="25" rowStart="1844" rowEnd="1904" colStart="0" colEnd="1500">
             <word unicode="ಸುದೆಕ್ಕ್" WordNumber="1" colStart="248" colEnd="0"/>
             <word unicode="ಸಂಕ" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಉಂಡು." WordNumber="3" colStart="0" colEnd="0"/>
@@ -224,7 +224,7 @@
             <word unicode="ಪೋನಗ," WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಕತ್ತೆಗ್" WordNumber="7" colStart="0" colEnd="1200"/>
         </line>
-        <line LineNumber="26" rowStart="1908" rowEnd="1952" colStart="0" colEnd="1501">
+        <line LineNumber="26" rowStart="1908" rowEnd="1952" colStart="0" colEnd="1500">
             <word unicode="ನೀರ್" WordNumber="1" colStart="249" colEnd="0"/>
             <word unicode="ತೂದು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಬಾಜೆಲ್" WordNumber="3" colStart="0" colEnd="0"/>
@@ -232,7 +232,7 @@
             <word unicode="ನೀರ್" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಪರಿಯರೆಂದ್" WordNumber="6" colStart="0" colEnd="1200"/>
         </line>
-        <line LineNumber="27" rowStart="1970" rowEnd="2025" colStart="0" colEnd="1501">
+        <line LineNumber="27" rowStart="1970" rowEnd="2025" colStart="0" colEnd="1500">
             <word unicode="ತುಲ್ಲರುಂಡು." WordNumber="1" colStart="248" colEnd="0"/>
             <word unicode="ತಿರ್ತ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಲಾಗಿಂಡು." WordNumber="3" colStart="0" colEnd="0"/>
@@ -241,7 +241,7 @@
             <word unicode="ತಿರ್ತ್" WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಸುದೆಕ್ಕ್" WordNumber="7" colStart="0" colEnd="1202"/>
         </line>
-        <line LineNumber="28" rowStart="2034" rowEnd="2090" colStart="0" colEnd="1501">
+        <line LineNumber="28" rowStart="2034" rowEnd="2090" colStart="0" colEnd="1500">
             <word unicode="ಬೂರ್ದು" WordNumber="1" colStart="250" colEnd="0"/>
             <word unicode="ಸೈತ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಪೋಪುಂಡು." WordNumber="3" colStart="0" colEnd="0"/>
@@ -250,7 +250,7 @@
             <word unicode="ಕೇಂದ್" WordNumber="6" colStart="0" colEnd="0"/>
             <word unicode="ಮೊಕ್ಲೆಗ್" WordNumber="7" colStart="0" colEnd="1200"/>
         </line>
-        <line LineNumber="29" rowStart="2096" rowEnd="2149" colStart="0" colEnd="1501">
+        <line LineNumber="29" rowStart="2096" rowEnd="2149" colStart="0" colEnd="1500">
             <word unicode="ಕತ್ತೆ" WordNumber="1" doubtfulRecognition="false" rowStart="2096" rowEnd="2149" colStart="249" colEnd="290"/>
             <word unicode="ದಾಂತೆ" WordNumber="2" doubtfulRecognition="false" rowStart="2096" rowEnd="2149" colStart="312" colEnd="403"/>
             <word unicode="ಪೋಪುಂಡು." WordNumber="3" doubtfulRecognition="false" rowStart="2096" rowEnd="2149" colStart="422" colEnd="604"/>
@@ -260,14 +260,14 @@
             <word unicode="ಬುತ್ತಿ" WordNumber="7" doubtfulRecognition="false" rowStart="2096" rowEnd="2149" colStart="1022" colEnd="1090"/>
             <word unicode="ಅಕೇರಿ" WordNumber="8" doubtfulRecognition="false" rowStart="2096" rowEnd="2149" colStart="1112" colEnd="1202"/>
         </line>
-        <line LineNumber="30" rowStart="2158" rowEnd="2215" colStart="0" colEnd="1501">
+        <line LineNumber="30" rowStart="2158" rowEnd="2215" colStart="0" colEnd="1500">
             <word unicode="ಮುಟ್ಟ" WordNumber="1" colStart="250" colEnd="0"/>
             <word unicode="ಬರಂದ್”" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಪಂಡ್‌ದ್" WordNumber="3" colStart="0" colEnd="0"/>
             <word unicode="ಮೊಕ್ಲು" WordNumber="4" colStart="0" colEnd="0"/>
             <word unicode="ತೆರಿಯೊನುವೆರ್." WordNumber="5" colStart="0" colEnd="1055"/>
         </line>
-        <line LineNumber="31" rowStart="2264" rowEnd="2310" colStart="0" colEnd="1501">
+        <line LineNumber="31" rowStart="2264" rowEnd="2310" colStart="0" colEnd="1500">
             <word unicode="ಕತೆಕ್ಲೆನ" WordNumber="1" doubtfulRecognition="false" rowStart="2264" rowEnd="2310" colStart="587" colEnd="664"/>
             <word unicode="ಪೊದಿಕೆ" WordNumber="2" doubtfulRecognition="false" rowStart="2264" rowEnd="2310" colStart="685" colEnd="771"/>
             <word unicode="/" WordNumber="3" doubtfulRecognition="false" rowStart="2264" rowEnd="2310" colStart="791" colEnd="802"/>
